@@ -1,0 +1,249 @@
+h1{
+    text-align: center;
+}
+
+*{
+    font-family: 'Abel', sans-serif;    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.busqueda{
+    list-style-type: none;
+    padding: 0;
+    background-color: rgb(43, 30, 30);
+    width: 25%;
+    max-width: 1000px;
+    margin:auto
+}
+
+.busqueda li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px;
+    display: block;
+}
+
+.busqueda li{
+    display: inline-block;
+    text-align: center;
+}
+
+.busqueda li a:hover{
+ background: #ef8354;
+}
+
+#busqueda-2{
+    margin-top: 3391px;
+}
+
+body {
+    background-color:#242124;
+}
+
+.card {
+    top: 50%;
+    left: 50%;
+    top: 250px;
+    width: 500px;
+    height: 260px;
+    background: #fff;
+    position: absolute;
+    border-radius: 3px;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+    z-index: 5;
+    border: 1px solid gray;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+}
+
+#biografia{
+    font-size:large;    
+}
+
+#landon-im{
+    position: relative;
+    left: 83%;
+    
+}
+
+.cv-items{
+    position: relative;
+    left: 20px;
+}
+
+.cv-subitems{
+    position: relative;
+    left: 50px;
+}
+
+.form-contact label{
+    display: block;
+    font-size: 16px;
+    font-weight: 900px;
+}
+
+.form-contact {
+    margin-top: 20px;
+    position: relative;
+    top: 160px;
+ }
+
+ .enunciado{
+    position: relative;
+    left: 25px;
+ }
+
+ .controls {
+   width: 400px;
+   font-size: 16px;
+   font-weight: 600;
+   font-family: sans-serif;
+   border: 1px solid #cecaca;
+   background: #f1f1f1;
+   padding: 14px 12px;
+   margin: 8px 0
+ }
+
+ .buttons {
+   background: black;
+   border:none;
+   color: white;
+   font-size: 18px;
+   display: block;
+   margin: auto;
+   padding: 20px 60px;
+   cursor: pointer;
+   margin-top: 20px;
+ }
+
+ .card2{
+    background-color: whitesmoke;
+    position: relative;
+    padding: 20px 0;
+    width: 700px;
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgb(0 0 0 / 50%);
+    overflow: hidden;
+    z-index: 5;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    z-index: 5;
+    border: 1px solid rgba(0, 0, 0, 0.749);
+    margin-top: 509px;
+}
+
+.card_cv{
+    background-color: whitesmoke;    
+    position: relative;
+    padding: 20px 0;
+    width: 700px;
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgb(0 0 0 / 50%);
+    overflow: hidden;
+    z-index: 5;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    z-index: 5;
+    border: 1px solid rgba(0, 0, 0, 0.749);
+    margin-top: 1500px;
+}
+
+.card_contact{
+    background-color: whitesmoke;
+    position: relative;
+    padding: 20px 0;
+    width: 700px;
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgb(0 0 0 / 50%);
+    overflow: hidden;
+    z-index: 5;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    z-index: 5;
+    border: 1px solid rgba(0, 0, 0, 0.749);
+    margin-top: 2864px;
+}
+
+ #encontrarme{
+    text-align: center;
+ }
+
+ .mail{
+    position: relative;
+    top: 40px;
+    left: 20px;
+ }
+
+ #mail-p{
+    position: relative;
+    top: 50px;
+    left: 50px;
+ }
+
+ .telefono{
+    position: relative;
+    top: 60px;
+    left: 20px;
+ }
+
+ #telefono-p{
+    position: relative;
+    top: 70px;
+    left: 50px;
+ }
+
+ .instagram{
+    position: relative;
+    top: 80px;
+    left: 20px;
+ }
+
+ #instagram-p{
+    position: relative;
+    top: 85px;
+    left: 50px;
+ }
+
+ .twiter{
+    position: relative;
+    top: 95px;
+    left: 20px;
+ }
+
+ #twiter-p{
+    position: relative;
+    top: 100px;
+    left: 50px;
+ }
+
+ .linkedin{
+    position: relative;
+    top: 110px;
+    left: 20px;
+ }
+
+ #linkedin-p{
+    position: relative;
+    left: 50px;
+    top: 115px;
+ }
+
+ #esccribir-directamente{
+    position: relative;
+    top: 60px;
+}
+
+#form{
+    position: relative;
+    margin: 30px;
+}
